@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sample.com/sitemap.xml
+Sitemap: https://lucasvazq.github.io/cushead/sitemap.xml

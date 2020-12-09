@@ -58,8 +58,8 @@ registerRoute(/\.(?:js|css)$/, new StaleWhileRevalidate());
 precacheAndRoute(
   [
     {
-      url: "/index.html",
-      revision: "6f0572",
+      url: "cushead/index.html",
+      revision: "ab8540",
     },
   ],
   {
