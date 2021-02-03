@@ -8,4 +8,4 @@ github_username: lucasvazq
 theme: minima
 plugins:
   - jekyll-feed
-include: ['_next/', '_buildManifest.js', '_ssgManifest.js', '_error-ddb4b255e666acc8c749.js', '_app-d4e9be6cc605795f6cac.js', '.well-known']
+include: ['_next', '_buildManifest.js', '_ssgManifest.js', '_error-ddb4b255e666acc8c749.js', '_app-d4e9be6cc605795f6cac.js', '.well-known']
